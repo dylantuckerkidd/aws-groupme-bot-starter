@@ -12,20 +12,16 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "@babel/core": "^7.8.4",
-    "@babel/preset-env": "^7.8.4",
     "aws-sdk": "^2.610.0",
     "axios": "^0.19.2",
-    "babel": "^6.23.0",
     "director": "1.2.8",
-    "dotenv": "2.0.0",
     "gaxios": "^2.3.0",
-    "grammarbot": "^1.0.3",
     "moment": "^2.24.0",
     "ngrok": "^3.2.7",
     "osrs-api": "^0.1.2",
     "osrs-json-hiscores": "^2.0.2",
     "osrs-wrapper": "^2.0.3",
+    "superagent": "^5.2.2",
     "supertest": "^4.0.2",
     "winston": "2.2.0"
   },
