@@ -12,16 +12,8 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "aws-sdk": "^2.610.0",
-    "axios": "^0.19.2",
-    "director": "1.2.8",
-    "gaxios": "^2.3.0",
-    "moment": "^2.24.0",
-    "ngrok": "^3.2.7",
-    "osrs-json-hiscores": "^2.2.0",
-    "superagent": "^5.2.2",
-    "supertest": "^4.0.2",
-    "winston": "2.2.0"
+    "axios": "^0.21.1",
+    "superagent": "^5.2.2"
   },
   "homepage": "https://github.com/acmatuc/groupme-bot-starter",
   "bugs": "https://github.com/acmatuc/groupme-bot-starter/issues",
